@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "padrao";
+  src: url(/fonts/KumbhSans-Regular.ttf);
+}
+body {
+  margin: 0px;
+}
+#container {
+  background-color: rgb(55, 119, 192);
+  padding: 10px;
+}
+img {
+  width: 50px;
+  margin-right: 20px;
+  vertical-align: middle;
+}
+samp {
+  color: wheat;
+  font-family: "padrao";
+  font-size: 200%;
+}
+h1 {
+  color: white;
+  font-family: "padrao";
+  font-size: 160%;
+}
+#busca {
+  width: 28%;
+  margin-right: 20px;
+  margin: 20px;
+  padding: 11px;
+}
